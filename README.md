@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Madhu Sudhan 👋
 
-<!--
-**0Madhusudhan0/0Madhusudhan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student at Guru Nanak Dev Engineering College (GNDEC), Ludhiana.
 
-Here are some ideas to get you started:
+I'm passionate about building practical software projects and continuously improving my skills in Artificial Intelligence, DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
+- C++
+
+**Frameworks & Libraries**
+- React
+- Vite
+- OpenCV
+
+**Databases**
+- MySQL
+
+**DevOps & Tools**
+- Docker
+- Git
+- GitHub
+- GitHub Actions
+- Kubernetes
+---
+
+## 🚀 Featured Projects
+
+- 🤖 Smart Abandoned Object Detection System
+- 🔐 Cyber-Physical Security System
+- 🐳 ShopNow DevOps
+- ⚛️ CineMix
+- 👤 Face Recognition Attendance System
+- 🗄️ Library Management System
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence & Machine Learning
+- DevOps
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/0Madhusudhan0
+- LinkedIn: *(I'll add this soon)*
